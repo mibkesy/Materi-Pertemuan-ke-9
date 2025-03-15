@@ -1,0 +1,100 @@
+body {
+			background: #1f9dd9;
+			color: rgb();
+			font-family: Time New Roman;
+		}
+		h2 {
+			margin-bottom: 12px;
+			margin-top: 12px;
+			margin: 12px;
+		}
+		p {
+			font-size: 1.9em;
+			color: currentColor;
+			color-interpolation: sRGB;
+		}
+		table {
+			background-color: rgb();
+			border-radius: 19px;
+			padding: 30px;
+
+		}
+		tr {
+			height: 40px;
+		}
+		textarea {
+			width: 590px;
+			height: 200px
+			padding: 30px;
+			font-family: fantasy;
+			font-size: 16px;
+		
+		}
+		input.nama {
+			background: #transparent;
+			border: 3px solid #c9c9c9;
+			border-radius: 2px;
+			height: 25px;
+			padding: 9px;
+			padding-left: 38px;
+			margin-bottom: 9px;
+			transition: 1s all;
+			-moz-transition: 2s all;
+			-o-transition: 3s all;
+		
+		}
+		input.email {
+			background: #transparent;
+			border: 4px solid #c9c9c9;
+			border-radius: 2px;
+			height: 25px;
+			padding: 9px;
+			padding-left: 38px;
+			margin-bottom: 9px;
+			transition: 5s all;
+			-moz-transition: 5s all;
+			-o-transition: 5s all;
+
+		}
+
+		input. {
+			background: url(images/kota.png)no.repeat 9px 9px;
+			border: 3px solid #c9c9c9;
+			border-radius: 2px;
+			height: 25px;
+			padding: 9px;
+			padding-left: 38px;
+			margin-bottom: 9px;
+			transition: 6s all;
+			-moz-transition: 6s all;
+			-o-transition: 6s all;
+
+		}
+		input.focus {
+			border: 4px solid #c9c9c9;
+			transition: 7s all;
+			-moz-transition: 7s all;
+			-o-transition: 7s all;
+
+		}
+		button {
+			background: #1f9dd9;
+			color: #ffffff;
+			width: 470px;
+			height: 221px;
+			margin: 340px;
+			margin-top: 19px;
+			border: 5px solid #c9c9c9;
+			border-radius: 6px;
+			transition: 7s all;
+			-moz-transition: 7s all;
+			-o-transition: 7s all;
+
+		}
+		button.hover {
+			background: #19b5FE;
+
+		}
+		button.gambar {
+			height: 55px;
+		}

@@ -1,0 +1,62 @@
+/* 
+	General Styles
+
+	Colors
+	@highlight: #196E78;
+	@text: #4A4A4A4;
+	@text-light: 8A8A8A;
+	@body-background: BBBBBB;
+*/ 
+
+*;
+*:before,
+*after {
+	box-sizing: inherit;
+	margin: 0;
+	padding: 0;
+} 
+
+html {
+	box-sizing: border-box;
+	background: #darkblue;
+	text-align: center;
+}
+
+body {
+	font-size: 16pt;
+	line-height: 1.5;
+	font-family: Time New Roman;
+	max-width: none;
+	max-height: none;
+	margin: 0;
+	padding: 0;
+	color: #darkblue;
+	color: transparent;
+} 
+
+img {
+	border-image: inherit;
+	background-position: center;
+	background-size: 151px;
+	list-style-image: all;
+	max-width: 100%;
+	min-height: 100%;
+	height: auto;
+} 
+
+a {
+	color: darkblue;
+}
+
+b {
+	cursor: pointer;
+	clear: all;
+	display: grid;
+	scroll-behavior: auto;
+} 
+div { 
+	font-size: 16pt;
+	font-family: fantasy;
+	text-align: justify;
+	background-color: darkblue;
+ }
